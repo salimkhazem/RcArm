@@ -17,7 +17,6 @@ For radiocommunication, i used the NRF24L01 Module in each microcontroller
 
 The youtube link to see the project : 
 
-https://youtu.be/CB5E3g89fRI
-
+https://www.youtube.com/watch?v=CB5E3g89fRI&feature=youtu.be
 
 
